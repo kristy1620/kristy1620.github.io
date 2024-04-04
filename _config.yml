@@ -6,17 +6,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <strong>Skills:</strong><br>
   <ul>
-    <li> Programming Languages: Python, SQL and R </li> <br> 
-    <li> Data Analysis Tools: Excel, Tableau </li> <br>
-    <li> Database Management Tools: MySQL, PostgreSQL </li> <br>
-    <li> Cloud Based Tools: AWS </li> <br>
-    <li> Machine Learning: scikit-learn, TensorFlow, PyTorch </li> <br>
+    <li> Programming Languages: Python, SQL and R </li> 
+    <li> Data Analysis Tools: Excel, Tableau </li> 
+    <li> Database Management Tools: MySQL, PostgreSQL </li> 
+    <li> Cloud Based Tools: AWS </li> 
+    <li> Machine Learning: scikit-learn, TensorFlow, PyTorch </li> 
     <li> Mathematics: Biostatistics, Calculus </li> 
   </ul>
   <br><br>
   <strong>Education/Certifications:</strong><br>
   <ul>
-    <li> IBM Certification in Data Science <br> </li>
+    <li> IBM Certification in Data Science </li>
     <li> Bachelors of Science; Neuroscience </li>
   </ul>
   <br><br>
