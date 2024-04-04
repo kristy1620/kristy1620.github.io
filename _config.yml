@@ -5,16 +5,20 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am passionate about using data to uncover insights, drive strategic decision-making, and create value for businesses. I am currently seeking opportunities where I can contribute my expertise in data science, analysis, and machine learning to innovative and challenging projects. Let’s connect to discuss how I can bring value to your team.
   <br><br>
   <strong>Skills:</strong><br>
-  Programming Languages: Python, SQL and R <br>
-  Data Analysis Tools: Excel, Tableau <br>
-  Database Management Tools: MySQL, PostgreSQL <br>
-  Cloud Based Tools: AWS <br>
-  Machine Learning: scikit-learn, TensorFlow, PyTorch <br>
-  Mathematics: Biostatistics, Calculus 
+  <ul>
+    <li> Programming Languages: Python, SQL and R </li> <br> 
+    <li> Data Analysis Tools: Excel, Tableau </li> <br>
+    <li> Database Management Tools: MySQL, PostgreSQL </li> <br>
+    <li> Cloud Based Tools: AWS </li> <br>
+    <li> Machine Learning: scikit-learn, TensorFlow, PyTorch </li> <br>
+    <li> Mathematics: Biostatistics, Calculus </li> 
+  </ul>
   <br><br>
   <strong>Education/Certifications:</strong><br>
-  IBM Certification in Data Science <br>
-  Bachelors of Science; Neuroscience
+  <ul>
+    <li> IBM Certification in Data Science <br> </li>
+    <li> Bachelors of Science; Neuroscience </li>
+  </ul>
   <br><br>
   <a href="https://www.linkedin.com/in/cristinagabriel91/">View My LinkedIn Profile</a> 
   
