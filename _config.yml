@@ -3,21 +3,9 @@ logo: "/images/biophoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data science professional with over 5 years of experience in extracting valuable insights from vast datasets. Expertise in data analysis, machine learning, and predictive modeling to drive strategic decisions and deliver impactful solutions across various sectors. 
    <br><br>
-  <strong>Skills:</strong>
-  <ul>
-    <li> Programming Languages: Python, SQL and R </li> 
-    <li> Data Analysis Tools: Excel, Tableau </li> 
-    <li> Database Management Tools: MySQL, PostgreSQL </li> 
-    <li> Cloud Based Tools: AWS </li> 
-    <li> Machine Learning: scikit-learn, TensorFlow, PyTorch </li> 
-    <li> Mathematics: Biostatistics, Calculus </li> 
-  </ul>
-  <strong>Education/Certifications:</strong>
-  <ul>
-    <li> IBM Certification in Data Science </li>
-    <li> Bachelors of Science; Neuroscience </li>
-  </ul>
-  <br><br>
-  <a href="https://www.linkedin.com/in/cristinagabriel91/">View My LinkedIn Profile</a> 
+
+ <a href="https://kristy1620.github.io/Certificates">Skills & Certificates</a> 
+
+ <a href="https://www.linkedin.com/in/cristinagabriel91/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
