@@ -1,4 +1,4 @@
-# Current Skills
+# Skills
 
 Continuing my education and learning is a passion of mine and therefore I continuously seek courses and training. You will find a list of my current skill sets and corresponding training. 
 <br><br> <strong>Skills:</strong>
