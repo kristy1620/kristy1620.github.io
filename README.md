@@ -10,3 +10,4 @@
 ---
 ### Sample of Data Visualisations
 <img src="images/geographic.jpg"> 
+<img src="images/various_viz.jpg"> 
