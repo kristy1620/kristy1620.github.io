@@ -9,5 +9,10 @@
 
 ---
 ### Sample of Data Visualisations
-<img src="images/geographic.jpg"> 
-<img src="images/various_viz.jpg"> 
+<a href="https://kristy1620.github.io/images/various_viz.jpg">
+  <img src="images/various_viz.jpg"> 
+</a>
+ 
+<a href="https://kristy1620.github.io/images/geographic.jpg">
+  <img src="images/geographic.jpg"> 
+</a>
