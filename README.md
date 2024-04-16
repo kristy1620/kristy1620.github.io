@@ -9,5 +9,5 @@ Title of Project 3
 
 ---
 ### Sample of Data Visualisations
-##### Geographic
-
+#### Geographic
+<img src="images/geographic.jpg"> 
